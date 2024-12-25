@@ -1,0 +1,46 @@
+[
+    {
+      "id": 1,
+      "role": "frontend intern",
+      "organisation": "Bharat intern",
+      "startDate": "Sept, 2023",
+      "endDate": "Present",
+      "location": "Remote",
+      "experiences": [
+        "worked on project management system",
+        "Worked with the Bharat intern team"
+      ],
+      "imageSrc": "company/bharat intern.jpg"
+    },
+
+
+            {
+              "id": 2,
+              "role": "Full stack intern",
+              "organisation": "internshala",
+              "startDate": "jan, 2023",
+              "endDate": "aug , 2023",
+              "location": "Remote",
+              "experiences": [
+                "worked on content mangement system",
+                "Worked with the intershala team"
+              ],
+              "imageSrc": "company/internshala.png"
+            },
+            
+                {
+                  "id": 3,
+                  "role": "Software devloper intern",
+                  "organisation": "Nptel",
+                  "startDate": "Sept, 2022",
+                  "endDate": "jan 2023",
+                  "location": "Remote",
+                  "experiences": [
+                    "Worked on Google Gmail",
+                    "Worked with the Nptel team"
+                  ],
+                  "imageSrc": "company/nptel.png"
+                }
+            ]
+                  
+              
